@@ -14,8 +14,8 @@
 ![c](https://img.shields.io/github/contributors/GeoInformacao/rBage?color=g)
 [![l](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
 
-<img src="https://github.com/GeoInformacao/rBage/blob/master/logogeobage2.png" width=115 align="right"/>
-<img src="https://github.com/GeoInformacao/rBage/blob/master/logogeobage.png" width=115 align="right"/>
+<img src="https://github.com/GeoInformacao/rBage/blob/master/rBage.png" width=115 align="right"/>
+<img src="https://github.com/GeoInformacao/rBage/blob/master/rBage2.png" width=115 align="right"/>
 
 
 **Project Status: In development** :warning:
