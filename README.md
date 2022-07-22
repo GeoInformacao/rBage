@@ -14,8 +14,8 @@
 ![c](https://img.shields.io/github/contributors/GeoInformacao/rBage?color=g)
 [![l](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
 
-<img src="https://github.com/GeoInformacao/rBage/rbage.png" width=115 align="right"/>
-<img src="https://github.com/GeoInformacao/rBage/rbage2.png" width=115 align="right"/>
+<img src="https://github.com/GeoInformacao/rBage/blob/main/rbage.png" width=115 align="right"/>
+<img src="https://github.com/GeoInformacao/rBage/blob/main/rbage2.png" width=115 align="right"/>
 
 
 **Project Status: In development** :warning:
@@ -135,7 +135,7 @@ If you want to contribute to geobage and add new functions or datasets, please c
 # **Credits**
 <right>
 
-| <img src="https://github.com/GeoInformacao/rBage/blob/master/logobage.png" width=115> | <img src="https://github.com/GeoInformacao/rBage/blob/master/logogeoinformacao.png" width=75> |
+| <img src="https://github.com/GeoInformacao/rBage/blob/main/logobage.png" width=115> | <img src="https://github.com/GeoInformacao/rBage/blob/main/logogeoinformacao.png" width=75> |
 |----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
 |                  [Prefeitura Municipal de Bagé](https://www.bage.rs.gov.br/)                 |                        [GeoInformação](https://sites.google.com/site/ggcbage/)                       |
 
