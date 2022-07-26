@@ -159,4 +159,3 @@ A BibTeX entry for LaTeX users is:
      year = {2022},
      url = {https://github.com/GeoInformacao/rBage}
      }
-
