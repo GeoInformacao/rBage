@@ -1,6 +1,5 @@
 # **rBage**
 
-[![CRAN](https://www.r-pkg.org/badges/version/rbage)](https://CRAN.R-project.org/package=rbage)
 <a href="https://github.com/GeoInformacao/rBage/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/GeoInformacao/rBage"></a>
 <img src="https://img.shields.io/static/v1?label=version&message=v0.1&color=orange&style=flat"/>
 <img src="https://img.shields.io/static/v1?label=build&message=passing&color=success&style=flat"/>
